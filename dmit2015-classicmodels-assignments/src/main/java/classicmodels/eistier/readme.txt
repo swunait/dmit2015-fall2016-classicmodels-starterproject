@@ -1,0 +1,1 @@
+Put your JPA Data Access Objects (DAO) classes in this package.

@@ -1,0 +1,1 @@
+Put your entity classes in this package.
